@@ -9,4 +9,4 @@ Briefly describe the purpose of each script (or folder of scripts) here as you c
 
 ## Supplementary Resources
 
-NCEAS Scientific Computing Team [website](https://nceas.github.io/scicomp.github.io)
+NCEAS Scientific Computing Team [website](https://lter.github.io/scicomp/)
